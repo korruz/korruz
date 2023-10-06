@@ -7,7 +7,7 @@
   </div>
 </div>
 
-### <div align="center">👋 I'm korruz, a full-time full-stack freelance developer 👨‍💻 </div>  
+<div align="center"> <h3>👋 I'm korruz, a full-time full-stack freelance developer 👨‍💻 </h3> </div>  
   
 
 - 🔭 I’m currently studying on AnHui University.  
