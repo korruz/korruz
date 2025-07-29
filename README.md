@@ -1,9 +1,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print('Hello, World~')&center=true&size=27" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=print(%27Hello,%20World~%27)&center=true&size=27" alt="Typing SVG" />
   </div>
 </div>
 
@@ -31,11 +29,10 @@
 ## Stack
 
 <div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korruz&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 </div>
 
 <br/>
 
-My ![Visitor Count](https://profile-counter.glitch.me/korruz/count.svg) visitor
+![Visitor Count](https://komarev.com/ghpvc/?username=korruz&color=blueviolet&style=for-the-badge)
